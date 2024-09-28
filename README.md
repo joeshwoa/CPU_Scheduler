@@ -1,3 +1,6 @@
+<img src="https://skillicons.dev/icons?i=java" />
+<br> 
+
 # CPU Scheduler
 CPU Scheduler is a simulation project designed to demonstrate how different CPU scheduling algorithms work in an operating system. This project provides an interactive and visual approach to understanding how various scheduling strategies allocate CPU time to processes in a multi-tasking environment.
 
